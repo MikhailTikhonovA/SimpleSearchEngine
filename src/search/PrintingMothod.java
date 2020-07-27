@@ -1,0 +1,4 @@
+package search;
+
+interface PrintingMethod {
+}
